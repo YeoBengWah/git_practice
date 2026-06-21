@@ -2,4 +2,6 @@ Hello!
 Hello!
 Hello!
 Second edit
+Added a very important change
+Added a cool feature
 Hey, we fixed the bug!!!
